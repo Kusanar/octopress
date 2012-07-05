@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://kusanar.github.com/atom.xml" rel="self"/>
-  <link href="http://kusanar.github.com/"/>
-  <updated>2012-07-06T00:57:13+02:00</updated>
-  <id>http://kusanar.github.com/</id>
+  <link href="http://kusanar.github.com/octopress/atom.xml" rel="self"/>
+  <link href="http://kusanar.github.com/octopress/"/>
+  <updated>2012-07-06T01:16:43+02:00</updated>
+  <id>http://kusanar.github.com/octopress/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     

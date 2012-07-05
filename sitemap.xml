@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://kusanar.github.com/</loc>
+        <loc>http://kusanar.github.com/octopress/</loc>
         <lastmod>2012-07-06T00:45:44+02:00</lastmod>
     </url>
     <url>
-        <loc>http://kusanar.github.com/blog/archives/</loc>
+        <loc>http://kusanar.github.com/octopress/blog/archives/</loc>
         <lastmod>2012-07-06T00:45:44+02:00</lastmod>
     </url>
 </urlset>
